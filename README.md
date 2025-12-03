@@ -33,7 +33,7 @@ C  •  Python  •  JavaScript  •  TypeScript  •  Soldity
 
 ## 🔗 Let's Connect:
 
-- Personal Website: [Asilbek's Blog](https://asilbek-page.vercel.app/)
+- Personal Website: [Asilbek's Blog](https://asilbek.page/)
 - Twitter: [asil_beck](https://twitter.com/asil_beck)
 - LinkedIn: [asilbek0311](https://www.linkedin.com/in/asilbek0311/?locale=en_US)
 - Telegram: [asilbek_abdullayev](https://t.me/asibek_abdullayev)
